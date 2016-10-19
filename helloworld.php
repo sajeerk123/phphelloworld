@@ -4,7 +4,7 @@
 
 <?php
 echo "My first PHP script!";
-echo "My kya first PHP script!";
+echo "My kya fiiiiiirst PHP script!";
 echo "My kya first PHP script!";
 echo "My kya first PHP script!";
 echo "My kya first PHP script!";
