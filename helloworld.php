@@ -3,11 +3,9 @@
 <body>
 
 <?php
+echo "My firstiiiiiii PHP script!";
 echo "My first PHP script!";
-echo "My kya fiiiiiirst PHP script!";
-echo "My kya first PHP script!";
-echo "My kya first PHP script!";
-echo "My kya first PHP script!";
+echo "hiiiiiiiiii";
 ?> 
 
 </body>
