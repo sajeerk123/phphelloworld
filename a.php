@@ -4,5 +4,7 @@
 
 <?php
 echo "My firstiiiiiii PHPdajfgajlfbh script!";
-</body>
+echo "My firstiiiiiii PHPdajfgajlfbh script!";
+
+/body>
 </html>
