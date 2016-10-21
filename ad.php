@@ -83,8 +83,5 @@ echo "My firstiiiiiii PHPdajfgajlfbh script!";
 echo "My firstiiiiiii PHPdajfgajlfbh script!";
 echo "My firstiiiiiii PHPdajfgajlfbh script!";
 echo "My firstiiiiiii PHPdajfgajlfbh script!";
-echo "My firstiiiiiii PHPdajfgajlfbh script!";
-echo "My firstiiiiiii PHPdajfgajlfbh script!";
-echo "My firstiiiiiii PHPdajfgajlfbh script!";
 </body>
 </html>
